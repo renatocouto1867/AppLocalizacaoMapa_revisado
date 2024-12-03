@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppLocalizacaoMapa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="definir_localiza_o">Definir Localização</string>
+    <string name="travar_mapa">Travar Mapa</string>
+    <string name="dados_atuais">Dados Atuais:</string>
+    <string name="latitude_atual">Latitude Atual: </string>
+    <string name="longitude_atual">Longitude Atual: </string>
+    <string name="pr_xima_tela">Próxima Tela</string>
+    <string name="localizar">Localizar</string>
+    <string name="localizao">Localização</string>
+    <string name="tela_anterior">Tela anterior</string>
+    <string name="fechar">FECHAR</string>
+    <string name="fdfsf">fdfsf</string>
+</resources>
